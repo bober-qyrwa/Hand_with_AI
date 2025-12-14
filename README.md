@@ -1,10 +1,15 @@
-<h1>ReadMe.md</h1>
-<ul>
-<li> В [просмотренных моделях](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/Просмотренные%20модели) содержатся файлы скачанные с thingverse</li>
+# Hand with AI Project
 
-<li> В [директории с кодом](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/код) хранятся  файлы для обучения моделей и хранится исходна yolo-модель</li>
+## Repository Structure
 
-<li> В [директории с документами](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/документы) находятся файлы пояснительной записки, сметы</li>
+- **[Просмотренные модели](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8)**  
+  Содержит файлы, скачанные с Thingiverse.
 
-<li> В [моделях](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/модели) находятся уже самостоятельно сделанные модели локтевого сустава</li>
-</ul>
+- **[Директория с кодом](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/%D0%BA%D0%BE%D0%B4)**  
+  Хранятся файлы для обучения моделей и исходная YOLO-модель.
+
+- **[Директория с документами](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)**  
+  Файлы пояснительной записки и сметы.
+
+- **[Модели](https://github.com/bober-qyrwa/Hand_with_AI/tree/master/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8)**  
+  Самостоятельно созданные модели локтевого сустава.
